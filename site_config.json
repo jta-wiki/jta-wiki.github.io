@@ -1,0 +1,84 @@
+{
+    "site_name": "Jonathan T's Articles Wiki",
+    "site_slogon": "",
+    "site_root_url": "/",
+    "site_domain": "jta-wiki.github.io",
+    "site_protocol": "https",
+    "config_template_dir": "config",
+    "source": "https://github.com/jta-wiki/jta-wiki.github.io/blob/main",
+    "route": {
+        "docs": {
+            "/四散燎原/": "docs/四散燎原/",
+            "/〇/": "docs/〇/",
+            "/start_reading/": "docs/start_reading/"
+        },
+        "pages": {
+            "/": "pages/index/zh"
+        },
+        "assets": {
+            "/static/": "static"
+        },
+        "blog": {
+            "/blog/": "blog"
+        }
+    },
+    "translate": {
+        "docs": {
+        },
+        "pages": {
+            "/": [
+                {
+                    "url": "/en/",
+                    "src": "pages/index/en"
+                }
+            ]
+        }
+    },
+    "plugins": {
+        "teedoc-plugin-markdown-parser":{
+            "from": "pypi",
+            "config": {
+            }
+        },
+        "teedoc-plugin-theme-default":{
+            "from": "pypi",
+            "config": {
+                "dark": true,
+                "env":{
+                    "main_color": "#4caf7d"
+                }
+            }
+        },
+        "teedoc-plugin-search":{
+            "from": "pypi",
+            "config": {
+                "search_hint": "Search"
+            }
+        },
+        "teedoc-plugin-blog": {
+            "from": "pypi",
+            "config": {
+            }
+        },
+        "teedoc-plugin-assets": {
+            "from": "pypi",
+            "config": {
+                "header_items": [
+                    "/static/css/custom.css"
+                ],
+                "footer_items": [
+                    "/static/js/custom.js"
+                ],
+                "env":{
+                    "main_color": "#4caf7d",
+                    "second_color": "#0a7d43"
+                }
+            }
+        }
+    },
+    "rebuild_changes_delay": 1,
+    "robots":{
+        "User-agent": "*"
+    },
+    "layout_root_dir": "layout"
+}
