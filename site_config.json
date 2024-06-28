@@ -10,6 +10,7 @@
         "docs": {
             "/四散燎原/": "docs/四散燎原/",
             "/〇/": "docs/〇/",
+            "/about/":"about/",
             "/start_reading/": "docs/start_reading/"
         },
         "pages": {
