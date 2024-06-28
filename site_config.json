@@ -45,7 +45,7 @@
             "config": {
                 "dark": true,
                 "env":{
-                    "main_color": "#4caf7d"
+                    "main_color": "#ff9b9b"
                 }
             }
         },
@@ -70,8 +70,8 @@
                     "/static/js/custom.js"
                 ],
                 "env":{
-                    "main_color": "#4caf7d",
-                    "second_color": "#0a7d43"
+                    "main_color": "#ff9b9b",
+                    "second_color": "#ff9b9b"
                 }
             }
         }
