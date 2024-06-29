@@ -1,0 +1,34 @@
+items:
+-   label: 卷首语
+    file: index.md
+-   label: 闪光
+    file: 闪光.md
+-   label: 男娼
+    file: 男娼.md
+-   label: 降临前
+    file: 降临前.md
+-   label: NSF
+    file: NSF.md
+-   label: 宇宙星波
+    file: 宇宙星波.md
+-   label: 启明星
+    file: 启明星.md
+-   label: 日落
+    file: 日落.md
+-   label: 汗
+    file: 汗.md
+-   label: 四散燎原
+    file: 四散燎原.md
+-   label: 波
+    file: 波.md
+-   label: 相交点
+    file: 相交点.md
+-   label: 太空启程录
+    file: 太空启程录.md
+-   label: 天空疗愈法
+    file: 天空疗愈法.md
+-   label: 地三角锥说
+    file: 地三角锥说.md
+-   label: 红霞
+    file: 红霞.md
+
