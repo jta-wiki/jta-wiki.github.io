@@ -14,7 +14,7 @@
             "/start_reading/": "docs/start_reading/"
         },
         "pages": {
-            "/": "pages/index/zh"
+            "/": "pages/index/"
         },
         "assets": {
             "/static/": "static"
@@ -27,12 +27,6 @@
         "docs": {
         },
         "pages": {
-            "/": [
-                {
-                    "url": "/en/",
-                    "src": "pages/index/en"
-                }
-            ]
         }
     },
     "plugins": {
