@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://jta-wiki.github.io/sitemap.xml
