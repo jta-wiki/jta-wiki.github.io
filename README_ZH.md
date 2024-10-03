@@ -1,8 +1,8 @@
 teedoc 网站模板
 
-此网站网址 [jta-wiki.github.io]
 =====
 
+此网站网址 [jta-wiki.github.io](https://jta-wiki.github.io)
 **中文 README | [English README](./README.md)**
 
 此模板使用于 teedoc: [teedoc.neucrack.com](https://teedoc.neucrack.com/) 或 [teedoc.github.io](https://teedoc.github.io) learn more
