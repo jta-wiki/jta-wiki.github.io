@@ -1,6 +1,8 @@
 teedoc website template
 =====
 
+This site is on [jta-wiki.github.io](https://jta-wiki.github.io)
+
 **[中文 README](./README_ZH.md) | English README**
 
 
